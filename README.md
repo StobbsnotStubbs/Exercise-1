@@ -1,2 +1,2 @@
-# Exercise-1
+# Session 1
 Pet Photo
